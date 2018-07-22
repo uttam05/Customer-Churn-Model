@@ -1,7 +1,5 @@
 # Customer-Churn-Model
-Capstone Project
-
-Captstone Project by Uttam Kushwaha
+Capstone Project by Uttam Kushwaha
 
 Used several Machine Learning algorithms such as Logistic Regression,Support Vector Machines,Decision Tree & Random Forest.
 
